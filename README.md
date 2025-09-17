@@ -14,8 +14,6 @@ Upload your exported `chat_history.json`, and the app instantly:
 All in the browser – no servers, no data leaves your machine.
 
 
-Live demo: [https://austin-carnahan.github.io/gpt-wrapped/](https://austin-carnahan.github.io/gpt-wrapped/)
-
 ---
 
 ## 🚀 Deployment
